@@ -1,0 +1,77 @@
+# פיכפיכידע — Generative Engine Optimization Map
+
+> פיכפידע is a fun and educational platform where users learn to 'פכפך' (a playful Hebrew term suggesting lively chatter or knowledge sharing) and gain knowledge. The brand has a playful, youthful, and energetic personality with a humorous twist on learning. It targets young learners (children/teens) as indicated by the registration form requiring a parent's name and age field. The platform aims to be trustworthy and inviting to attract new members through a prominent registration form.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+פיכפיכידע הוא המקום שבו לימוד פכפוך בקלות הופך להרפתקה! ציעירים סקרנים מגלים עולם של ידע, כיף ואתגרים. הצטרף עכשיו ותתחיל לפכפך!
+
+### מסלולי למידה
+https://example.com/learning-tracks
+מסלולי למידה מגוונים שתוכננו במיוחד עבור ציעירים! לימוד פכפוך בקלות לאורך שלבים מהנים, צבעוניים ומאתגרים. גלה את המסלול המושלם עבורך והתחל להתקדם!
+
+### אודות ואמון
+https://example.com/about
+אנחנו לא עוד פלטפורמת למידה — אנחנו שותפים להצלחה של כל ציעיר! גלה את הסיפור שלנו, הערכים שמנחים אותנו, ולמה הורים ותלמידים בוחרים בנו שוב ושוב.
+
+### הצטרף
+https://example.com/join
+הצטרף לאלפי ציעירים שכבר מפכפכים ידע בכל יום! ההרשמה קלה, מהירה ובטוחה — עם אישור הורים. לימוד לציעירים מעולם לא היה כל כך כיפי. הירשם עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/join
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `שם פרטי` (text, required)
+  - `שם משפחה` (text, required)
+  - `גיל` (number, required)
+  - `מספר טלפון` (tel, required)
+  - `שם הורה` (text, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פיכפיכידע
+פיכפידע is a fun and educational platform where users learn to 'פכפך' (a playful Hebrew term suggesting lively chatter or knowledge sharing) and gain knowledge. The brand has a playful, youthful, and energetic personality with a humorous twist on learning. It targets young learners (children/teens) as indicated by the registration form requiring a parent's name and age field. The platform aims to be trustworthy and inviting to attract new members through a prominent registration form.
+
+## Target Audience
+- אנשים שרוצים ללמוד לפכפך
+
+## Industry
+Education & Learning Platform
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
