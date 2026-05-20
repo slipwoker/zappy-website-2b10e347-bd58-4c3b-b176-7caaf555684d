@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://pikhpikhida.zappy5.app
 פיכפיכידע הוא המקום שבו לימוד פכפוך בקלות הופך להרפתקה! ציעירים סקרנים מגלים עולם של ידע, כיף ואתגרים. הצטרף עכשיו ותתחיל לפכפך!
 
 ### מסלולי למידה
-https://example.com/learning-tracks
+https://pikhpikhida.zappy5.app/learning-tracks
 מסלולי למידה מגוונים שתוכננו במיוחד עבור ציעירים! לימוד פכפוך בקלות לאורך שלבים מהנים, צבעוניים ומאתגרים. גלה את המסלול המושלם עבורך והתחל להתקדם!
 
 ### אודות ואמון
-https://example.com/about
+https://pikhpikhida.zappy5.app/about
 אנחנו לא עוד פלטפורמת למידה — אנחנו שותפים להצלחה של כל ציעיר! גלה את הסיפור שלנו, הערכים שמנחים אותנו, ולמה הורים ותלמידים בוחרים בנו שוב ושוב.
 
 ### הצטרף
-https://example.com/join
+https://pikhpikhida.zappy5.app/join
 הצטרף לאלפי ציעירים שכבר מפכפכים ידע בכל יום! ההרשמה קלה, מהירה ובטוחה — עם אישור הורים. לימוד לציעירים מעולם לא היה כל כך כיפי. הירשם עכשיו!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://pikhpikhida.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://pikhpikhida.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://pikhpikhida.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -43,8 +43,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/join
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://pikhpikhida.zappy5.app/join
+- Endpoint: https://pikhpikhida.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -72,6 +72,6 @@ Education & Learning Platform
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://pikhpikhida.zappy5.app/sitemap.xml
+- Robots: https://pikhpikhida.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pikhpikhida.zappy5.app/llms-full.txt
